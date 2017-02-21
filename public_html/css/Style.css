@@ -1,10 +1,11 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 20-feb-2017, 19:49:17
-    Author     : LENOVO
-*/
+.header { 
+    background-color: grey;
+}
 
+.nav {
+    background-color: black;
+}
+
+.nav a{
+    color:white
+}
